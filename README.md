@@ -1,2 +1,2 @@
 # cs-19
-doubly linked list implementation
+raw pointer linked list implementation
